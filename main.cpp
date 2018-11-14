@@ -1,3 +1,11 @@
+/*
+File: Banker
+Email: herreram81266@student.vvc.edu
+Date: Tue Nov 13 18:29:09 PST 2018
+Description: Basically an ATM.
+Developer: Matthew Herrera
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
